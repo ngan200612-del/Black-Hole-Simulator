@@ -1,13 +1,4 @@
 # 🌌 Black Hole Simulator — NEBULA X
-
-<p align="center">
-  <img src="assets/black-hole-preview.png" alt="Black Hole Simulator preview" width="100%">
-</p>
-
-<p align="center">
-  <b>A futuristic black hole visual simulation built with Python and Pygame.</b>
-</p>
-
 ## ✨ Features
 
 - 🌌 Animated black hole and glowing accretion disk
